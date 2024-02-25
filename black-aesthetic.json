@@ -1,0 +1,240 @@
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "APPLOVIN-D",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/9257395921",
+			"open_ads_alien": "",
+			"open_ads_max": "",
+			"open_ads_wortise": "",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://",
+			"on_off_category": "2"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "Lapak Asik BPJSTKU",
+			"image": "https://play-lh.googleusercontent.com/b57l9KvMs3OCdbNahKRmE98DE8TxxNiYP3q_4vfgditELcOndANmBQAc3oyPGwg-Icc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.lapakasik.ceksaldobpjstk&hl=id&gl=US"
+		},
+		{
+			"id": 2,
+			"title": "Koi Fish Live Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/67t94B5vdLFtxfcYG1GkQb-hqx94xP2Hterm6U6GIr6mdNoGGpTcdeQwZU-kViUpkRc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.koipond.koifish.livewallpaper&hl=id&gl=US"
+		},
+		{
+			"id": 3,
+			"title": "Magic 5 Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/92aQEffsB0SjqgkyBIXmMm4mt6bN6I6UEW5O02U2l5Ozyb7PgNhILjXEzyuodJQsUQ=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.wallpaper.magic5&hl=id&gl=US"
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/47/0d/6b/470d6ba9dd37b2736b9221d714a5d5c5.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/47/0d/6b/470d6ba9dd37b2736b9221d714a5d5c5.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/c8/cd/60/c8cd602ddd029ea695bfcc20906c3233.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/c4/9e/fd/c49efd515470713310fe963d69cee7fa.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/72/11/c3/7211c37bbe6f2dd31cdd43cfd1ba6c85.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/05/f8/f5/05f8f51440b1f53d5c318828988f1ba6.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/a2/97/18/a29718402876aecf8677421c36dbef25.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/f4/c7/f1/f4c7f11d483539d7fd2c632288f475a8.jpg"
+		},
+		{
+			"id": 8,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/2f/ca/b0/2fcab000455fe6b11999a5a32c1b272f.jpg"
+		},
+		{
+			"id": 9,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/6a/9c/5a/6a9c5a2af691689c0c38e184f7a41fe3.jpg"
+		},
+		{
+			"id": 10,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/30/46/47/304647b61d3a6e9c4dc9721f05655caa.jpg"
+		},
+		{
+			"id": 11,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/2f/29/d8/2f29d87fb558b56b945190b2b57b7235.jpg"
+		},
+		{
+			"id": 12,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/10/db/65/10db65d4b366394b3dec1d7eb63a734a.jpg"
+		},
+		{
+			"id": 13,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/bf/10/16/bf101623a48ff4b8d6cf73819b02c6de.jpg"
+		},
+		{
+			"id": 14,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/9f/5f/51/9f5f5103f33687bf388063949b3ab229.jpg"
+		},
+		{
+			"id": 15,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/ab/28/40/ab284028c0cf9d5d9ad946b9cdd9665f.jpg"
+		},
+		{
+			"id": 16,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/dc/d7/79/dcd77928de58965a93ee6dcaac9bfd07.jpg"
+		},
+		{
+			"id": 17,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/ca/99/59/ca995972faa37d6ee65db20af3b2c034.jpg"
+		},
+		{
+			"id": 18,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/e4/b1/cd/e4b1cd2e1470819de78bc5290cdd363f.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/f3/05/67/f305674e30c789faf17abf0fee21e53f.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/e8/a5/83/e8a58394a53181832161e4955b4e7d3c.jpg"
+		},
+		{
+			"id": 21,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/f9/7f/b8/f97fb8f7b94cdb149a9ea2bc45719f35.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/92/c8/03/92c8037af572fdcb50257e2e008af500.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/ef/53/a7/ef53a769113c299925e9e2720865ad32.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/736x/2e/8f/1e/2e8f1ef1f02a27038ceac1ee18861e89.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image":"https://i.pinimg.com/564x/27/bb/a3/27bba386c59f71d2f757927a2744e1cc.jpg"
+		},
+		{
+			"id": 26,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/8d/f4/8f/8df48f9141ddf1f5ddf72c0cb57d8a8a.jpg"
+		},
+		{
+			"id": 27,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/24/21/48/242148276bb737db6d2327090b25668a.jpg"
+		},
+		{
+			"id": 28,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/5b/ef/2f/5bef2fb590e2f849498f9a0231a2eda7.jpg"
+		},
+		{
+			"id": 29,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image":"https://i.pinimg.com/564x/c4/f1/64/c4f164bbfc734dad4da59ac067a58350.jpg"
+		},
+		{
+			"id": 30,
+			"name_category": "Black Aesthetic",
+			"title": "Black Aesthetic",
+			"image": "https://i.pinimg.com/564x/05/98/81/059881afa4b9f6ccaea863b69d60d321.jpg"
+		}
+	]
+}
